@@ -1,0 +1,24 @@
+{
+  "apks": [
+    {
+      "apkName": "BruceDaily",
+      "packageName": "com.brucedaily",
+      "versionCode": "1",
+      "versionName": "1.0",
+      "sourceUrl": "https://github.com/BruceHurrican/BruceDaily",
+      "apkUrl": "https://github.com/BruceHurrican/ShowCaseRepository/blob/master/BruceDaily/BruceDaily.apk?raw=true",
+      "description": "追求极致简约,简简单单,方便用户。所用技术包括 butterknife,eventbus,greendao,leakcanary,blockcanary,robolectric",
+      "iconUrl": "https://raw.githubusercontent.com/BruceHurrican/ShowCaseRepository/master/BruceDaily/BruceDaily.png"
+    },
+    {
+      "apkName": "BlueASdemo",
+      "packageName": "com.bruce.demo.tt.blue",
+      "versionCode": "1",
+      "versionName": "1.0",
+      "sourceUrl": "https://github.com/BruceHurrican/asstudydemo",
+      "apkUrl": "https://github.com/BruceHurrican/ShowCaseRepository/blob/master/asdemo/personalcollection.apk?raw=true",
+      "description": "个人收藏代码集,各种代码小片段,包括重叠包,jni,ipc 通信,stetho,mvp,进程保活,具有回弹效果的 listview,刮刮卡,拼图游戏,2048,悬浮窗,3D 旋转动画,美团 listview 刷新动画,",
+      "iconUrl": "https://raw.githubusercontent.com/BruceHurrican/ShowCaseRepository/master/asdemo/personalcollection.png"
+    }
+  ]
+}
